@@ -1,3 +1,5 @@
+# Exercise 1: A good first program
+
 # Ok, I wanted to cheat and name this file lpthw01.py, but well..
 # If I was in Mexico, I might have to use the following line (with the # included, that line is not intended to be a comment). 
 # -*- coding: utf-8 -*-

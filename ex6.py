@@ -30,3 +30,6 @@ e = "a string with a right side."
 # Printing the two variables above, which were strings. 
 print w + e
 
+# %r is useful for debugging, since it displays the raw value of the variable!
+
+
